@@ -1,0 +1,6 @@
+prettymaps
+matplotlib
+osmnx
+numpy
+geopandas
+shapely
